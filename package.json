@@ -10,9 +10,15 @@
   },
   "dependencies": {
     "expo": "~47.0.12",
+    "expo-media-library": "~15.0.0",
     "expo-status-bar": "~1.4.2",
+    "lodash": "^4.17.21",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-gesture-detector": "^1.1.2",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-swipe-detect": "^1.0.10",
+    "react-native-view-shot": "3.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
